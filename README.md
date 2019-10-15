@@ -17,5 +17,5 @@ spring + springMVC + mybatis + jquery
 ## 功能概况图
 ![Image text](https://github.com/TJU-xiaoming/Student-management-system/raw/master/img/4.png)
 
-## 程序目录结构
+## 程序目录结构  
 ![Image text](https://github.com/TJU-xiaoming/Student-management-system/raw/master/img/3.png)
