@@ -15,5 +15,4 @@ Java版本：JDK 1.8
 spring + springMVC + mybatis + jquery
 
 ## 功能概况图
-![Image text](https://github.com/yguo18/CircleFollowButton/raw/master/Assets/Image/xiaoguotu.png)
-![Image text](https://github.com/TJU-xiaoming/Student-management-system/raw/master/Assets/Image/xiaoguotu.png)
+![Image text](https://github.com/TJU-xiaoming/Student-management-system/raw/master/img/4.png)
